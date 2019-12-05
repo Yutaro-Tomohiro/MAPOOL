@@ -1,0 +1,1 @@
+delete_execution.phpとsave1.phpのAWSの各種キーは削除しています

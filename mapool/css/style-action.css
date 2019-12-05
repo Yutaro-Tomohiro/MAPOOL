@@ -1,0 +1,30 @@
+.box{
+	margin: 0 auto;
+}
+
+.images{
+	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
+  	margin: 40px 0;
+}
+
+.act-btn{
+  	opacity: 0.4;
+	border-radius: 10px;
+	color: black;
+	background-color: yellow;
+	width: 100px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	position: fixed;
+	top: 120px;
+	right: 20px;
+}
+
+.act-btn:hover{
+	color: black;
+  	opacity: 1;
+  	text-decoration: none;
+}
